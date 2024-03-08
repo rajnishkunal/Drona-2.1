@@ -1,0 +1,10 @@
+.bg-about{
+background: rgb(207,145,227);
+background: linear-gradient(142deg, rgba(207,145,227,1) 0%, rgba(199,126,182,1) 100%);
+}
+/* #root {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    }   */
